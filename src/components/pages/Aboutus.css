@@ -1,0 +1,34 @@
+.content-con {
+    display: flex;
+    justify-content: space-between;
+}
+.content-l img {
+    width: 95%;
+    
+}
+.container {
+    font-family: 'Prompt', sans-serif;
+  }
+  .mafiaboss img {
+    width: 100%;
+    height: 100%;
+    position: 'center';
+    
+}
+
+.poom img {
+    width: 60%;
+    height: 100%;
+    position: 'center';
+    border-style: solid;
+    border-color: rgb(11, 11, 11);
+    border-width: 2px;
+}
+.phu img {
+    width: 60%;
+    height: 100%;
+    position: 'center';
+    border-style: solid;
+    border-color: rgb(11, 11, 11);
+    border-width: 2px;
+}

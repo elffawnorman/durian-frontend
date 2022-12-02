@@ -1,0 +1,20 @@
+.container {
+    font-family: 'Prompt', sans-serif;
+  }
+
+.poom img {
+    width: 60%;
+    height: 100%;
+    position: 'center';
+    border-style: solid;
+    border-color: rgb(11, 11, 11);
+    border-width: 2px;
+}
+.phu img {
+    width: 60%;
+    height: 100%;
+    position: 'center';
+    border-style: solid;
+    border-color: rgb(11, 11, 11);
+    border-width: 2px;
+}
